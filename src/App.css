@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.character-card{
+  width: 10cm;
+  background: rgb(245, 240, 240);
+  padding: 5px;
+  margin: 10px;
+}
+
+span{
+  margin-left: 5px;
+}
+
+.character-list{
+  display: flex;
+  flex-wrap: wrap;
+}
